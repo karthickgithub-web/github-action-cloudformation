@@ -5,4 +5,4 @@ Resources:
   MyS3Bucket:
     Type: 'AWS::S3::Bucket'
     Properties:
-      BucketName: !Sub 'yt-cf-demo-jishnu-hardik-s3-bucket-123456'
+      BucketName: !Sub 'yt-cf-demo-jishnu-hardik-s3-bucket-1234567'
